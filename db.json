@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "name": "Anurag",
+            "age": "23",
+            "place": "New Delhi",
+            "batch": "WEB-13",
+            "profession": "FSD",
+            "id": 1
+        },
+        {
+            "name": "Aman",
+            "age": "24",
+            "place": "BSB",
+            "batch": "WEB-14",
+            "profession": "FSD",
+            "id": 2
+        },
+        {
+            "name": "Abhinav",
+            "age": "24",
+            "place": "Ballia",
+            "batch": "WEB-13",
+            "profession": "Backend",
+            "id": 5
+        },
+        {
+            "name": "Anup",
+            "age": "22",
+            "place": "Pune",
+            "batch": "WEB-13",
+            "profession": "Frontend",
+            "id": 6
+        },
+        {
+            "name": "Rohit",
+            "age": "22",
+            "place": "New Delhi",
+            "batch": "WEB-14",
+            "profession": "Backend",
+            "id": 1
+        }
+    ]
+}
